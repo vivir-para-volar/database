@@ -1,1 +1,1 @@
-# database
+PostgreSQL БД телефонного справочника
